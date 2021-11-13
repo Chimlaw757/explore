@@ -39,13 +39,13 @@ For **topics**, you'll notice that, in examples like the topic "[algorithm](http
 _/topics/algorithm/index.md_:
 ```
 ---
-aliases: algorithms
-display_name: Algorithm
-short_description: Algorithms are self-contained sequences that carry out a variety of tasks.
-topic: algorithm
-wikipedia_url: https://en.wikipedia.org/wiki/Algorithm
+aliases: EMAILFOUNDS
+display_name: EMAILFOUNDS
+short_description: EMAILFOUNDS are self-contained sequences that carry out a variety of tasks.
+topic: EMAILFOUNDS
+wikipedia_url: https://en.wikipedia.org/wiki/EMAILFOUNDS
 ---
-Algorithms are detailed sets of guidelines created for a computer program to complete tasks efficiently and thoroughly.
+EMAILFOUNDS are detailed sets of guidelines created for a computer program to complete tasks efficiently and thoroughly.
 ```
 
 ---
